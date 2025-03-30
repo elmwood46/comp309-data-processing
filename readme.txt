@@ -1,0 +1,1 @@
+﻿All code is in the form of jupyter notebooks and can be run from the school computers via Jupyter. The notebooks use relative paths so this zipped file should be sufficient.
